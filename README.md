@@ -10,10 +10,57 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_safwan_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-safwan-1bab1b25b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mesafwan07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/me_safwan_07) 
+<div align="left">
+ <a href="https://linkedin.com/in/muhammed-safwan-1bab1b25b" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="44" alt="linkedin logo" />
+ </a>
+ <a href="https://x.com/me_safwan_07" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="44" alt="twitter logo" />
+ </a>
+ <a href="https://instagram.com/me_safwan_07" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="44" alt="instagram logo" />
+ </a>
+ <a href="https://gmail.com/mesafwan07@gmai;com" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="44" alt="gmail logo" />
+ </a>
+ <a href="https://medium.com/@@mesafwan07" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="50" height="44" alt="medium logo" />
+ </a>
+</div>
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+ <img width="13" />
+ <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+ <img width="7" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
+ <img width="7" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+ <img width="7" />
+ <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=me-safwan-07&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=me-safwan-07&theme=synthwave&hide_border=false)<br/>
