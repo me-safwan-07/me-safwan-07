@@ -10,7 +10,7 @@
 
 ---
 ![](https://visitcount.itsvg.in/api?id=me-safwan-07&label=Profile%20Views&color=1&icon=5&pretty=true)
-
+<a href="https://www.buymeacoffee.com/mesafwan07y" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 150px !important;" ></a>
 ## 🌐 Socials:
 <div align="left">
  <a href="https://linkedin.com/in/muhammed-safwan-1bab1b25b" target="_blank">
