@@ -14,21 +14,11 @@
 <a href="https://www.buymeacoffee.com/mesafwan07y" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 150px !important;" ></a>
 ## 🌐 Socials:
 <div align="left">
- <a href="https://linkedin.com/in/muhammed-safwan-1bab1b25b" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="44" alt="linkedin logo" />
- </a>
- <a href="https://x.com/me_safwan_07" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="44" alt="twitter logo" />
- </a>
- <a href="https://instagram.com/me_safwan_07" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="44" alt="instagram logo" />
- </a>
- <a href="https://gmail.com/mesafwan07@gmai;com" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="44" alt="gmail logo" />
- </a>
- <a href="https://medium.com/@@mesafwan07" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="50" height="44" alt="medium logo" />
- </a>
+<a href="https://linkedin.com/in/muhammed-safwan-1bab1b25b" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="44" alt="linkedin logo" /></a>
+<a href="https://x.com/me_safwan_07" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="44" alt="twitter logo" /></a>
+<a href="https://instagram.com/me_safwan_07" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="44" alt="instagram logo" /></a>
+<a href="https://gmail.com/mesafwan07@gmai;com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="44" alt="gmail logo" /></a>
+<a href="https://medium.com/@@mesafwan07" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="50" height="44" alt="medium logo" /></a>
 </div>
 
 # 💻 Tech Stack:
