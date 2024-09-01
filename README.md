@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 📝 I regularly write articles on [https://medium.com/@mesafwan07](https://medium.com/@mesafwan07)
+- 📝 I regularly write articles on [https://medium.com/@mesafwan07](Medium)
 
 - 📫 How to reach me **mesafwan07@gmail.com** </br></br>
 ![](https://visitcount.itsvg.in/api?id=me-safwan-07&label=Profile%20Views&color=1&icon=5&pretty=true)
