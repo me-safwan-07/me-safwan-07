@@ -58,6 +58,8 @@
  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
  <img width="7" />
  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
+<img width="7" />
+ <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="vercel logo" />
 </div>
 
 # 📊 GitHub Stats:
