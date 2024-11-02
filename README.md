@@ -59,7 +59,9 @@
  <img width="7" />
  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
 <img width="7" />
- <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="vercel logo" />
+ <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
+  <img width="7" />
+ <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
 </div>
 
 # 📊 GitHub Stats:
