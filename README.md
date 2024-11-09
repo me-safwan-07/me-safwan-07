@@ -67,6 +67,7 @@
 ---
 # Hacktoberfest Badges 
 [![An image of @mesafwan07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mesafwan07)](https://holopin.io/@mesafwan07)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=me-safwan-07&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=me-safwan-07&theme=synthwave&hide_border=false)<br/>
