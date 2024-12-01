@@ -62,6 +62,8 @@
  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
   <img width="7" />
  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  <img width="7" />
+ <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" />
 </div>
 
 ---
