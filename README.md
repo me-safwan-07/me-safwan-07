@@ -64,6 +64,8 @@
  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
   <img width="7" />
  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" />
+  <img width="7" />
+ <img src="https://skillicons.dev/icons?i=postman" height="50" alt="prisma logo" />
 </div>
 
 ---
