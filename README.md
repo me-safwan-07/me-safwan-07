@@ -67,9 +67,9 @@
   <img width="7" />
  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
   <img width="7" />
- <img src="https://datastax.com/sites/default/files/favicon.ico" height="50" alt="astradb logo" />
+ <img src="https://skillicons.dev/icons?i=npm" height="50" alt="astradb logo" />
 <img width="7" />
-<img src="https://langflow.s3.amazonaws.com/langflow-icon.png" height="50" alt="langflow logo" />
+<img src="https://skillicons.dev/icons?i=notion" height="50" alt="langflow logo" />
 
   
 </div>
