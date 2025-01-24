@@ -70,8 +70,8 @@
  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="astradb logo" />
 <img width="7" />
 <img src="https://skillicons.dev/icons?i=notion" height="50" alt="langflow logo" />
-
-  
+<img width="7" />
+<img src="https://skillicons.dev/icons?i=redis" height="50" alt="langflow logo" />
 </div>
 
 ---
