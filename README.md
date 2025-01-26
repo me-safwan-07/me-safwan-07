@@ -35,7 +35,8 @@
  <img width="7" />
  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
  <img width="7" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" /> -->
+   <img src="https://skillicons.dev/icons?i=react" height="50" alt="typescript logo" />
   <img width="7" />
  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo" />
  <img width="7" />
