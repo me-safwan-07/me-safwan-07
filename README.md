@@ -56,6 +56,7 @@ Passionate about building modern web applications and exploring new technologies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-safwan-07&theme=radical&hide_border=false&layout=compact" alt="Top Languages" width="50%"/>
 </p> 
+
 ---
 
 ## 🎉 Hacktoberfest Badges
