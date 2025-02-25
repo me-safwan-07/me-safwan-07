@@ -49,13 +49,15 @@ Passionate about building modern web applications and exploring new technologies
 
 ### 🏆 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-safwan-07&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me-safwan-07&theme=radical&hide_border=false" alt="GitHub Streak" width="50%"/>
-</p>  
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=me-safwan-07&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me-safwan-07&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" height="50%"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-safwan-07&theme=radical&hide_border=false&layout=compact" alt="Top Languages" width="50%"/>
-</p> 
+</div>
+
 
 ---
 
