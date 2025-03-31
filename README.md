@@ -112,6 +112,7 @@ Automated content creation tool with AI integration
 - [TypeScript Best Practices for Enterprise Apps](https://medium.com/@mesafwan07/typescript-best-practices-6d7e8f9a4c2e)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ---
 
 ## ☕ Support My Work
