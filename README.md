@@ -26,25 +26,44 @@ Building digital experiences that matter. Passionate about clean code, scalable 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Redux](https://img.shields.io/badge/MDX-orange?style=for-the-badge&logo=mdx&logoColor=white) 
+![MDX](https://img.shields.io/badge/MDX-orange?style=for-the-badge&logo=mdx&logoColor=white) 
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### ⚙ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth&logoColor=white)
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
+![Drizzle](https://img.shields.io/badge/Drizzle-EEFF00?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 
-### 🛠 Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+### ☁ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white) 
+
+### 🧠 AI / Analytics
+![LLM](https://img.shields.io/badge/LLM(AI)-purple?style=for-the-badge&logo=openai&logoColor=white) 
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white) 
+![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=sentry&logoColor=red)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Vercel Analytics](https://img.shields.io/badge/Vercel_Analytics-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white) 
+![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white) 
+![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
 
 ---
 
@@ -86,40 +105,3 @@ Building digital experiences that matter. Passionate about clean code, scalable 
 ## 🔥 Recent Achievements
 
 [![Holopin Board](https://holopin.me/mesafwan07)](https://holopin.io/@mesafwan07)
-
-<!--
----
-
-## 💡 Featured Projects
-
-### 1. E-Commerce Platform (Full Stack)
-**Next.js | TypeScript | Node.js | MongoDB**  
-Modern e-commerce solution with real-time inventory management and payment integration
-
-### 2. Dev Community Platform (Open Source)
-**React | Express | PostgreSQL**  
-Developer-focused social platform with code collaboration features
-
-### 3. AI-Powered Blog Generator
-**Python | FastAPI | GPT-3.5**  
-Automated content creation tool with AI integration
-
----
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!--
-- [Optimizing React Performance with Memoization](https://medium.com/@mesafwan07/optimizing-react-performance-9a2b3a4e5d6f)
-- [Building Scalable Microservices with Docker](https://medium.com/@mesafwan07/microservices-docker-guide-8c1d2e3f4a5b)
-- [TypeScript Best Practices for Enterprise Apps](https://medium.com/@mesafwan07/typescript-best-practices-6d7e8f9a4c2e)
-<!-- BLOG-POST-LIST:END -->
-
-<!--
----
-
-## ☕ Support My Work
-
-If you find value in my projects or articles, consider supporting me:
-
-<a href="https://www.buymeacoffee.com/mesafwan07" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Coffee">
-</a>
