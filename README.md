@@ -11,7 +11,6 @@ Building digital experiences that matter. Passionate about clean code, scalable 
 🔭 Exploring **Microservices Architecture**  
 🌱 Learning **AWS Cloud Solutions**  
 👨💻 Contributing to **Open Source Projects**  
-📝 Writing technical articles on [Medium](https://medium.com/@mesafwan07)
 
 ---
 
