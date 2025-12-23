@@ -1,6 +1,6 @@
 # 👨💻 Hi, I'm Muhammed Safwan.
 
-**Full Stack Developer** | **Tech Evangelist** | **Open Source Advocate**
+**Full Stack Developer** | **Tech Evangelist** | **Open Source Advocate** | **Freelancer**
 
 Building digital experiences that matter. Passionate about clean code, scalable architecture, and developer communities.
 
