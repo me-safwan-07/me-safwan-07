@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhammed Safwan
+# 👋 Hello, I'm Muhammed Safwan.
 ### Full Stack Developer | Cloud Solutions Architect | Open Source Contributor
 
 I design and build scalable, performant web applications with modern technologies. Specialized in creating seamless user experiences backed by robust cloud infrastructure.
