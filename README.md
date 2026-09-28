@@ -98,4 +98,3 @@ I design and build scalable, performant web applications with modern technologie
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=me-safwan-07&color=blueviolet&style=flat-square&label=Profile+Views)
-
